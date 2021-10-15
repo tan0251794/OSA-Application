@@ -22,3 +22,6 @@ React Native project, connect OSA-API
 
 <img src="https://github.com/tan0251794/OSA-Application/blob/master/screenshorts/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202021-10-15%20at%2010.31.38.png" width="30%" height="30%">
 
+
+
+## .app file for ios: https://expo.dev/accounts/jasonisme/projects/osa-application/builds/9c3e71db-0137-4683-b0e2-5cc3aaef6cca
