@@ -16,7 +16,7 @@ const Home = ({ navigation, route }) => {
     }
 
     const navigateOrderHistory = () => {  
-        navigation.navigate('OrderReview')
+        navigation.navigate('OrderHistory')
     }
 
 

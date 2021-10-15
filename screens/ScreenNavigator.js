@@ -8,7 +8,7 @@ import Home from './Home';
 import Login from './Login';
 import OrderInformation from './OrderInformation';
 import OrderProduct from './OrderProduct';
-import OrderReview from './OrderReview';
+import OrderHistory from './OrderHistory';
 
 
 
@@ -41,8 +41,8 @@ const ScreenNavigator = () => {
         component={OrderInformation}
       />
       <Stack.Screen
-        name='OrderReview'
-        component={OrderReview}
+        name='OrderHistory'
+        component={OrderHistory}
       />
 
     </Stack.Navigator>

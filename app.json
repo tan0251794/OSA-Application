@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "OSA",
-    "slug": "OSA",
+    "name": "OSA Application",
+    "slug": "osa-application",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/orange.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -17,13 +17,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.lct.osa",
+      "buildNumber": "1.0.0"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "package": "com.lct.osa",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
