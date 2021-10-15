@@ -24,4 +24,4 @@ React Native project, connect OSA-API
 
 
 
-## .app file for ios: https://expo.dev/accounts/jasonisme/projects/osa-application/builds/9c3e71db-0137-4683-b0e2-5cc3aaef6cca
+## .app file download: https://expo.dev/accounts/jasonisme/projects/osa-application/builds/9c3e71db-0137-4683-b0e2-5cc3aaef6cca
